@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 double number1,number2;
-char binary,octal,operation;
+char operation;
 bool CalculatorOn=true;
 
 void Continue(){
