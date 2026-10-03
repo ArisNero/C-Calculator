@@ -11,7 +11,7 @@ A working PC or Laptop. A code editor or IDE (Eg. Visual Studio Code). GCC insta
 
 ## How to get it running
 
-Clone the repo. Press F5. Choose the "C/C++:gcc build .." . In the tasks.json file on the left, under "args":[....] add "-lm" and a , after the previous arg. Then go back to the .c file and press F5. 
+Clone the repo. Press F5. Choose the "C/C++:gcc build .." . In the tasks.json file on the left, under "args":[....] add "-lm" and a "," after the previous arg. Then go back to the .c file and press F5. 
 
 ## What is inside the project
 - the main file : Calculator.c
